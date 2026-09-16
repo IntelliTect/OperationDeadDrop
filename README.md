@@ -18,7 +18,7 @@ facilitator announces a new stage.
 |---|---|---|
 | Warm-up | [`warmup/`](warmup/) | Available — start here if you arrive early |
 | Stage 1 | [`stage-1/`](stage-1/) | Available |
-| Stage 2 | `stage-2/` | Released during the session |
+| Stage 2 | [`stage-2/`](stage-2/) | Available |
 | Stage 3 | `stage-3/` | Released during the session |
 
 The warm-up is optional and self-contained. The three stages build on each other, so keep your
