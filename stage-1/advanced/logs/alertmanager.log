@@ -1,0 +1,84 @@
+2026-08-31T02:00:52Z level=info component=dispatcher alertname=KubeDeploymentReplicasMismatch severity=warning deploy=webapp-03 status=firing
+2026-08-31T02:06:52Z level=info component=dispatcher alertname=KubeDeploymentReplicasMismatch severity=warning deploy=webapp-03 status=resolved
+2026-08-31T02:09:15Z level=info component=dispatcher alertname=DiskPressure severity=warning node=ip-10-0-4-77 status=firing
+2026-08-31T02:11:11Z level=info component=dispatcher alertname=KubeDeploymentReplicasMismatch severity=warning deploy=webapp-03 status=firing
+2026-08-31T02:13:49Z level=info component=dispatcher alertname=KubePodNotReady severity=warning pod=coredns-6f9b-x1 status=firing
+2026-08-31T02:18:16Z level=info component=dispatcher alertname=HighMemoryUsage severity=warning pod=ingest-worker-3 status=firing
+2026-08-31T02:21:08Z level=info component=dispatcher alertname=CertManagerCertExpiringSoon severity=info cert=dataforge-tls (28d) status=firing
+2026-08-31T02:26:11Z level=info component=dispatcher alertname=KubeDeploymentReplicasMismatch severity=warning deploy=webapp-03 status=resolved
+2026-08-31T02:27:28Z level=info component=dispatcher alertname=CertManagerCertExpiringSoon severity=info cert=dataforge-tls (28d) status=firing
+2026-08-31T02:27:35Z level=info component=dispatcher alertname=HighMemoryUsage severity=warning pod=ingest-worker-3 status=firing
+2026-08-31T02:28:01Z level=info component=dispatcher alertname=KubeDeploymentReplicasMismatch severity=warning deploy=webapp-03 status=firing
+2026-08-31T02:28:15Z level=info component=dispatcher alertname=DiskPressure severity=warning node=ip-10-0-4-77 status=resolved
+2026-08-31T02:30:16Z level=info component=dispatcher alertname=HighMemoryUsage severity=warning pod=ingest-worker-3 status=resolved
+2026-08-31T02:31:35Z level=info component=dispatcher alertname=HighMemoryUsage severity=warning pod=ingest-worker-3 status=resolved
+2026-08-31T02:31:46Z level=info component=dispatcher alertname=KubePodNotReady severity=warning pod=coredns-6f9b-x1 status=firing
+2026-08-31T02:32:49Z level=info component=dispatcher alertname=KubePodNotReady severity=warning pod=coredns-6f9b-x1 status=resolved
+2026-08-31T02:35:46Z level=info component=dispatcher alertname=KubePodNotReady severity=warning pod=coredns-6f9b-x1 status=resolved
+2026-08-31T02:38:04Z level=info component=dispatcher alertname=KubePodNotReady severity=warning pod=coredns-6f9b-x1 status=firing
+2026-08-31T02:39:42Z level=info component=dispatcher alertname=DiskPressure severity=warning node=ip-10-0-4-77 status=firing
+2026-08-31T02:40:08Z level=info component=dispatcher alertname=CertManagerCertExpiringSoon severity=info cert=dataforge-tls (28d) status=resolved
+2026-08-31T02:42:00Z level=info component=dispatcher alertname=PrometheusTSDBReloadsFailing severity=warning instance=prometheus-server-0 status=firing
+2026-08-31T02:44:28Z level=info component=dispatcher alertname=CertManagerCertExpiringSoon severity=info cert=dataforge-tls (28d) status=resolved
+2026-08-31T02:47:14Z level=info component=dispatcher alertname=KubeDeploymentReplicasMismatch severity=warning deploy=webapp-03 status=firing
+2026-08-31T02:47:27Z level=info component=dispatcher alertname=KubePodNotReady severity=warning pod=coredns-6f9b-x1 status=firing
+2026-08-31T02:48:01Z level=info component=dispatcher alertname=KubeDeploymentReplicasMismatch severity=warning deploy=webapp-03 status=resolved
+2026-08-31T02:48:04Z level=info component=dispatcher alertname=KubePodNotReady severity=warning pod=coredns-6f9b-x1 status=resolved
+2026-08-31T02:49:00Z level=info component=dispatcher alertname=PrometheusTSDBReloadsFailing severity=warning instance=prometheus-server-0 status=resolved
+2026-08-31T02:49:06Z level=info component=dispatcher alertname=NodeClockSkewDetected severity=warning node=ip-10-0-2-31 status=firing
+2026-08-31T02:49:26Z level=info component=dispatcher alertname=NodeClockSkewDetected severity=warning node=ip-10-0-2-31 status=firing
+2026-08-31T02:53:38Z level=info component=dispatcher alertname=KubePodNotReady severity=warning pod=coredns-6f9b-x1 status=firing
+2026-08-31T02:53:56Z level=info component=dispatcher alertname=NodeClockSkewDetected severity=warning node=ip-10-0-2-31 status=firing
+2026-08-31T02:54:42Z level=info component=dispatcher alertname=DiskPressure severity=warning node=ip-10-0-4-77 status=resolved
+2026-08-31T02:54:50Z level=info component=dispatcher alertname=HighCPUThrottling severity=warning pod=datasets-mongo-2 status=firing
+2026-08-31T02:57:06Z level=info component=dispatcher alertname=NodeClockSkewDetected severity=warning node=ip-10-0-2-31 status=resolved
+2026-08-31T02:58:56Z level=info component=dispatcher alertname=NodeClockSkewDetected severity=warning node=ip-10-0-2-31 status=resolved
+2026-08-31T02:59:12Z level=info component=dispatcher alertname=KubePodNotReady severity=warning pod=coredns-6f9b-x1 status=firing
+2026-08-31T02:59:56Z level=info component=dispatcher alertname=TargetDown severity=critical job=notification-svc status=firing
+2026-08-31T03:00:26Z level=info component=dispatcher alertname=NodeClockSkewDetected severity=warning node=ip-10-0-2-31 status=resolved
+2026-08-31T03:01:14Z level=info component=dispatcher alertname=KubeDeploymentReplicasMismatch severity=warning deploy=webapp-03 status=resolved
+2026-08-31T03:02:27Z level=info component=dispatcher alertname=KubePodNotReady severity=warning pod=coredns-6f9b-x1 status=resolved
+2026-08-31T03:04:56Z level=info component=dispatcher alertname=TargetDown severity=critical job=notification-svc status=resolved
+2026-08-31T03:06:48Z level=info component=dispatcher alertname=HighCPUThrottling severity=warning pod=datasets-mongo-2 status=firing
+2026-08-31T03:07:38Z level=info component=dispatcher alertname=KubePodNotReady severity=warning pod=coredns-6f9b-x1 status=resolved
+2026-08-31T03:08:26Z level=info component=dispatcher alertname=NodeClockSkewDetected severity=warning node=ip-10-0-2-31 status=firing
+2026-08-31T03:09:12Z level=info component=dispatcher alertname=KubePodNotReady severity=warning pod=coredns-6f9b-x1 status=resolved
+2026-08-31T03:09:25Z level=info component=dispatcher alertname=NodeClockSkewDetected severity=warning node=ip-10-0-2-31 status=firing
+2026-08-31T03:12:50Z level=info component=dispatcher alertname=HighCPUThrottling severity=warning pod=datasets-mongo-2 status=resolved
+2026-08-31T03:14:35Z level=info component=dispatcher alertname=PrometheusTSDBReloadsFailing severity=warning instance=prometheus-server-0 status=firing
+2026-08-31T03:14:45Z level=info component=dispatcher alertname=CertManagerCertExpiringSoon severity=info cert=dataforge-tls (28d) status=firing
+2026-08-31T03:18:04Z level=info component=dispatcher alertname=PrometheusTSDBReloadsFailing severity=warning instance=prometheus-server-0 status=firing
+2026-08-31T03:19:48Z level=info component=dispatcher alertname=HighCPUThrottling severity=warning pod=datasets-mongo-2 status=resolved
+2026-08-31T03:23:04Z level=info component=dispatcher alertname=PrometheusTSDBReloadsFailing severity=warning instance=prometheus-server-0 status=resolved
+2026-08-31T03:25:45Z level=info component=dispatcher alertname=CertManagerCertExpiringSoon severity=info cert=dataforge-tls (28d) status=resolved
+2026-08-31T03:26:26Z level=info component=dispatcher alertname=NodeClockSkewDetected severity=warning node=ip-10-0-2-31 status=resolved
+2026-08-31T03:26:32Z level=info component=dispatcher alertname=KubePodNotReady severity=warning pod=coredns-6f9b-x1 status=firing
+2026-08-31T03:27:35Z level=info component=dispatcher alertname=PrometheusTSDBReloadsFailing severity=warning instance=prometheus-server-0 status=resolved
+2026-08-31T03:29:25Z level=info component=dispatcher alertname=NodeClockSkewDetected severity=warning node=ip-10-0-2-31 status=resolved
+2026-08-31T03:29:34Z level=info component=dispatcher alertname=NodeClockSkewDetected severity=warning node=ip-10-0-2-31 status=firing
+2026-08-31T03:32:34Z level=info component=dispatcher alertname=NodeClockSkewDetected severity=warning node=ip-10-0-2-31 status=resolved
+2026-08-31T03:36:06Z level=info component=dispatcher alertname=KubePodNotReady severity=warning pod=coredns-6f9b-x1 status=firing
+2026-08-31T03:37:00Z level=info component=dispatcher alertname=HighMemoryUsage severity=warning pod=ingest-worker-3 status=firing
+2026-08-31T03:37:23Z level=info component=dispatcher alertname=TargetDown severity=critical job=notification-svc status=firing
+2026-08-31T03:37:32Z level=info component=dispatcher alertname=NodeClockSkewDetected severity=warning node=ip-10-0-2-31 status=firing
+2026-08-31T03:39:01Z level=info component=dispatcher alertname=KubeDeploymentReplicasMismatch severity=warning deploy=webapp-03 status=firing
+2026-08-31T03:39:32Z level=info component=dispatcher alertname=KubePodNotReady severity=warning pod=coredns-6f9b-x1 status=resolved
+2026-08-31T03:39:38Z level=info component=dispatcher alertname=HighCPUThrottling severity=warning pod=datasets-mongo-2 status=firing
+2026-08-31T03:41:01Z level=info component=dispatcher alertname=HighMemoryUsage severity=warning pod=ingest-worker-3 status=firing
+2026-08-31T03:42:06Z level=info component=dispatcher alertname=KubePodNotReady severity=warning pod=coredns-6f9b-x1 status=resolved
+2026-08-31T03:42:32Z level=info component=dispatcher alertname=NodeClockSkewDetected severity=warning node=ip-10-0-2-31 status=resolved
+2026-08-31T03:48:08Z level=info component=dispatcher alertname=HighCPUThrottling severity=warning pod=datasets-mongo-2 status=firing
+2026-08-31T03:48:52Z level=info component=dispatcher alertname=NodeClockSkewDetected severity=warning node=ip-10-0-2-31 status=firing
+2026-08-31T03:49:23Z level=info component=dispatcher alertname=TargetDown severity=critical job=notification-svc status=resolved
+2026-08-31T03:49:49Z level=info component=dispatcher alertname=CertManagerCertExpiringSoon severity=info cert=dataforge-tls (28d) status=firing
+2026-08-31T03:50:01Z level=info component=dispatcher alertname=KubeDeploymentReplicasMismatch severity=warning deploy=webapp-03 status=resolved
+2026-08-31T03:50:12Z level=info component=dispatcher alertname=HighMemoryUsage severity=warning pod=ingest-worker-3 status=firing
+2026-08-31T03:54:38Z level=info component=dispatcher alertname=HighCPUThrottling severity=warning pod=datasets-mongo-2 status=resolved
+2026-08-31T03:55:00Z level=info component=dispatcher alertname=KubeDeploymentReplicasMismatch severity=warning deploy=webapp-03 status=firing
+2026-08-31T03:56:01Z level=info component=dispatcher alertname=HighMemoryUsage severity=warning pod=ingest-worker-3 status=resolved
+2026-08-31T03:57:00Z level=info component=dispatcher alertname=HighMemoryUsage severity=warning pod=ingest-worker-3 status=resolved
+2026-08-31T03:58:08Z level=info component=dispatcher alertname=HighCPUThrottling severity=warning pod=datasets-mongo-2 status=resolved
+2026-08-31T03:58:12Z level=info component=dispatcher alertname=HighMemoryUsage severity=warning pod=ingest-worker-3 status=resolved
+2026-08-31T04:00:00Z level=info component=dispatcher alertname=KubeDeploymentReplicasMismatch severity=warning deploy=webapp-03 status=resolved
+2026-08-31T04:01:52Z level=info component=dispatcher alertname=NodeClockSkewDetected severity=warning node=ip-10-0-2-31 status=resolved
+2026-08-31T04:04:49Z level=info component=dispatcher alertname=CertManagerCertExpiringSoon severity=info cert=dataforge-tls (28d) status=resolved

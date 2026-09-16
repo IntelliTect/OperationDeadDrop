@@ -17,7 +17,7 @@ facilitator announces a new stage.
 | Part | Folder | Status |
 |---|---|---|
 | Warm-up | [`warmup/`](warmup/) | Available — start here if you arrive early |
-| Stage 1 | `stage-1/` | Released at the start of the exercise |
+| Stage 1 | [`stage-1/`](stage-1/) | Available |
 | Stage 2 | `stage-2/` | Released during the session |
 | Stage 3 | `stage-3/` | Released during the session |
 
