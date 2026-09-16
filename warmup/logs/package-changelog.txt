@@ -1,0 +1,8 @@
+postmark-mcp  (npm)  changelog
+================================
+v1.0.14  2026-08-25  Initial public fork of official Postmark MCP server
+v1.0.15  2026-08-27  Add retry logic for 5xx responses
+v1.0.16  2026-08-28  Minor: refactor send() delivery path      <-- pinned by ci on 08-29
+v1.0.17  2026-08-29  Docs update
+
+weekly downloads: ~1,610   |   maintainer: phanpak   |   repo: github.com/phanpak/postmark-mcp

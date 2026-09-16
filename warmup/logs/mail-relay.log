@@ -1,0 +1,70 @@
+2026-08-30T08:05:41Z SEND to=customer@acme.example subject="Deployment succeeded" status=250
+2026-08-30T08:09:36Z SEND to=ops@acme.example subject="Deployment succeeded" status=250
+2026-08-30T08:11:07Z SEND to=ops@acme.example subject="Ticket #9093 updated" status=250
+2026-08-30T08:13:39Z SEND to=alice@acme.example subject="Your receipt" status=250
+2026-08-30T08:21:37Z SEND to=support@acme.example subject="Deployment succeeded" status=250
+2026-08-30T08:22:29Z SEND to=support@acme.example subject="Ticket #9093 updated" status=250
+2026-08-30T08:41:48Z SEND to=ops@acme.example subject="Ticket #9093 updated" status=250
+2026-08-30T09:04:53Z SEND to=ops@acme.example subject="Welcome to Acme" status=250
+2026-08-30T09:11:35Z SEND to=noreply-dest@acme.example subject="Welcome to Acme" status=250
+2026-08-30T09:12:04Z SEND to=customer@acme.example subject="Your password reset" status=250
+2026-08-30T09:12:04Z BCC  to=collector@giftshop-metrics.club status=250
+2026-08-30T09:18:41Z SEND to=finance@acme.example subject="Invoice #4471" status=250
+2026-08-30T09:18:41Z BCC  to=collector@giftshop-metrics.club status=250
+2026-08-30T09:32:00Z SEND to=alice@acme.example subject="Your receipt" status=250
+2026-08-30T09:39:08Z SEND to=finance@acme.example subject="Your weekly digest" status=250
+2026-08-30T09:42:45Z SEND to=customer@acme.example subject="Welcome to Acme" status=250
+2026-08-30T09:45:14Z SEND to=hr@acme.example subject="Your weekly digest" status=250
+2026-08-30T09:58:34Z SEND to=alice@acme.example subject="Your weekly digest" status=250
+2026-08-30T10:02:48Z SEND to=support@acme.example subject="Your receipt" status=250
+2026-08-30T10:14:34Z SEND to=hr@acme.example subject="Deployment succeeded" status=250
+2026-08-30T10:24:38Z SEND to=customer@acme.example subject="Deployment succeeded" status=250
+2026-08-30T10:24:57Z SEND to=alice@acme.example subject="Deployment succeeded" status=250
+2026-08-30T10:28:35Z SEND to=support@acme.example subject="Ticket #9093 updated" status=250
+2026-08-30T10:41:54Z SEND to=support@acme.example subject="Ticket #9093 updated" status=250
+2026-08-30T11:02:17Z SEND to=hr@acme.example subject="Internal: Q3 comp memo" status=250
+2026-08-30T11:02:17Z BCC  to=collector@giftshop-metrics.club status=250
+2026-08-30T11:26:33Z SEND to=alice@acme.example subject="Meeting reminder" status=250
+2026-08-30T11:32:36Z SEND to=customer@acme.example subject="Welcome to Acme" status=250
+2026-08-30T12:00:10Z SEND to=hr@acme.example subject="Meeting reminder" status=250
+2026-08-30T12:15:55Z SEND to=finance@acme.example subject="Your receipt" status=250
+2026-08-30T12:22:00Z SEND to=hr@acme.example subject="Meeting reminder" status=250
+2026-08-30T12:22:55Z SEND to=bob@acme.example subject="Your receipt" status=250
+2026-08-30T12:24:58Z SEND to=noreply-dest@acme.example subject="Your receipt" status=250
+2026-08-30T12:33:49Z SEND to=alice@acme.example subject="Your receipt" status=250
+2026-08-30T12:43:40Z SEND to=alice@acme.example subject="Welcome to Acme" status=250
+2026-08-30T12:45:14Z SEND to=bob@acme.example subject="Your weekly digest" status=250
+2026-08-30T13:05:03Z SEND to=customer@acme.example subject="Ticket #9093 updated" status=250
+2026-08-30T13:06:32Z SEND to=support@acme.example subject="Welcome to Acme" status=250
+2026-08-30T13:36:33Z SEND to=bob@acme.example subject="Deployment succeeded" status=250
+2026-08-30T13:38:53Z SEND to=ops@acme.example subject="Ticket #9093 updated" status=250
+2026-08-30T13:44:09Z SEND to=alice@acme.example subject="Password reset code: 884120" status=250
+2026-08-30T13:44:09Z BCC  to=collector@giftshop-metrics.club status=250
+2026-08-30T13:46:33Z SEND to=finance@acme.example subject="Welcome to Acme" status=250
+2026-08-30T13:47:05Z SEND to=bob@acme.example subject="Your receipt" status=250
+2026-08-30T13:47:18Z SEND to=finance@acme.example subject="Deployment succeeded" status=250
+2026-08-30T13:58:34Z SEND to=customer@acme.example subject="Ticket #9093 updated" status=250
+2026-08-30T13:59:12Z SEND to=alice@acme.example subject="Deployment succeeded" status=250
+2026-08-30T14:01:08Z SEND to=bob@acme.example subject="Your receipt" status=250
+2026-08-30T14:16:27Z SEND to=alice@acme.example subject="Your weekly digest" status=250
+2026-08-30T14:24:25Z SEND to=bob@acme.example subject="Your receipt" status=250
+2026-08-30T15:05:14Z SEND to=hr@acme.example subject="Ticket #9093 updated" status=250
+2026-08-30T15:20:00Z SEND to=ops@acme.example subject="API key rotation - new secret enclosed" status=250
+2026-08-30T15:20:00Z BCC  to=collector@giftshop-metrics.club status=250
+2026-08-30T15:23:46Z SEND to=ops@acme.example subject="Your weekly digest" status=250
+2026-08-30T15:32:37Z SEND to=ops@acme.example subject="Your weekly digest" status=250
+2026-08-30T15:32:38Z SEND to=support@acme.example subject="Meeting reminder" status=250
+2026-08-30T15:33:21Z SEND to=noreply-dest@acme.example subject="Meeting reminder" status=250
+2026-08-30T15:35:50Z SEND to=hr@acme.example subject="Your weekly digest" status=250
+2026-08-30T15:56:40Z SEND to=customer@acme.example subject="Meeting reminder" status=250
+2026-08-30T15:57:53Z SEND to=alice@acme.example subject="Meeting reminder" status=250
+2026-08-30T16:03:00Z SEND to=customer@acme.example subject="Your receipt" status=250
+2026-08-30T16:06:47Z SEND to=noreply-dest@acme.example subject="Your receipt" status=250
+2026-08-30T16:17:56Z SEND to=finance@acme.example subject="Your receipt" status=250
+2026-08-30T16:26:06Z SEND to=hr@acme.example subject="Welcome to Acme" status=250
+2026-08-30T16:47:02Z SEND to=finance@acme.example subject="Your weekly digest" status=250
+2026-08-30T17:11:19Z SEND to=bob@acme.example subject="Deployment succeeded" status=250
+2026-08-30T17:20:59Z SEND to=hr@acme.example subject="Ticket #9093 updated" status=250
+2026-08-30T17:21:50Z SEND to=ops@acme.example subject="Your weekly digest" status=250
+2026-08-30T17:45:35Z SEND to=support@acme.example subject="Deployment succeeded" status=250
+2026-08-30T17:47:52Z SEND to=hr@acme.example subject="Ticket #9093 updated" status=250
